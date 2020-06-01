@@ -1,4 +1,4 @@
-import spicyHeadlinesInventedToday, asyncio, discord, re
+import spicyHotInternetTopics, asyncio, discord, re
 from discord.ext import commands
 from discord.ext.commands import Bot
 
